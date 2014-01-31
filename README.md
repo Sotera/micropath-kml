@@ -22,6 +22,6 @@ The lat/lon resolutions should match the ones used to produce the output.  They 
 
 #### Results
 
-A kml file is produced with a name that matches your input file. To view, just load it into any program that renders kml data. 
+A kml file is produced with a name that matches your input file. To view, just load it into any program that renders kml data. Green represents low values and red represents high values.
 
 <img src="https://raw.github.com/Sotera/micropath-kml/master/img/china-1.png" align="center" width="600"/>
