@@ -3,7 +3,7 @@ micropath-kml
 
 For creating kml to visualize aggregate micro-path (AMP) output.
 
-#### Pre-requisites
+#### Prerequisites
 
 * Java
 * Maven
