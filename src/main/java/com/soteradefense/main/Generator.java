@@ -173,7 +173,7 @@ public class Generator {
 		
 		if(args.length < 3 || args.length > 3) {
 			System.err.println(
-		            "Usage: java -jar micropath-kml-0.0.1-SNAPSHOT-jar-with-dependencies.jar {Latitude Resolution} {Longitude Resolution} {Input File}\n");
+		            "Usage: java -jar micropath-kml.jar {Latitude Resolution} {Longitude Resolution} {Input File}\n");
 		} else {
 			try {
 				
