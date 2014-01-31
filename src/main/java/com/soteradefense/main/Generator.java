@@ -84,7 +84,6 @@ public class Generator {
 		Double min = null;
 		Double max = null;
 		String line = fileReader.readLine();
-		line = fileReader.readLine();
 		while(line != null) {
 			
 			String[] elements = line.split("\t", -1);
@@ -112,7 +111,6 @@ public class Generator {
 		
 		int polygons = 0;
 		//for each line (after header)
-		line = fileReader.readLine();
 		line = fileReader.readLine();
 		while(line != null) {
 			
