@@ -23,3 +23,5 @@ The lat/lon resolutions should match the ones used to produce the output.  They 
 #### Results
 
 What will be produced is a kml file with a name that matches your input file. To view, just load it into any program that renders kml data. 
+
+<img src="https://raw.github.com/Sotera/micropath-kml/master/img/china-1.png" align="center" width="600"/>
